@@ -1,0 +1,96 @@
+[2024-08-11 14:56:04] [ ERROR] [OdontologoTest:30] Error de Sintaxis en sentencia SQL "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aMATRICULA VARCHAR(10) NOT NULL,\000d\000aNOMBRE VARCHAR(10) NOT NULL,\000d\000aAPELLIDO VARCHAR(10) NOT NULL,\000d\000a[*])"; se esperaba "identifier"
+Syntax error in SQL statement "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aMATRICULA VARCHAR(10) NOT NULL,\000d\000aNOMBRE VARCHAR(10) NOT NULL,\000d\000aAPELLIDO VARCHAR(10) NOT NULL,\000d\000a[*])"; expected "identifier"; SQL statement:
+
+
+CREATE TABLE ODONTOLOGOS(
+ID INT AUTO_INCREMENT PRIMARY KEY,
+MATRICULA VARCHAR(10) NOT NULL,
+NOMBRE VARCHAR(10) NOT NULL,
+APELLIDO VARCHAR(10) NOT NULL,
+) [42001-232]
+[2024-08-11 15:00:35] [ ERROR] [OdontologoTest:30] Error de Sintaxis en sentencia SQL "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aMATRICULA VARCHAR(10) NOT NULL,\000d\000aNOMBRE VARCHAR(10) NOT NULL,\000d\000aAPELLIDO VARCHAR(10) NOT NULL,\000d\000a[*])"; se esperaba "identifier"
+Syntax error in SQL statement "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aMATRICULA VARCHAR(10) NOT NULL,\000d\000aNOMBRE VARCHAR(10) NOT NULL,\000d\000aAPELLIDO VARCHAR(10) NOT NULL,\000d\000a[*])"; expected "identifier"; SQL statement:
+
+
+CREATE TABLE ODONTOLOGOS(
+ID INT AUTO_INCREMENT PRIMARY KEY,
+MATRICULA VARCHAR(10) NOT NULL,
+NOMBRE VARCHAR(10) NOT NULL,
+APELLIDO VARCHAR(10) NOT NULL,
+) [42001-232]
+[2024-08-11 15:02:07] [ ERROR] [OdontologoTest:30] Error de Sintaxis en sentencia SQL "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aMATRICULA VARCHAR(10) NOT NULL,\000d\000aNOMBRE VARCHAR(10) NOT NULL,\000d\000aAPELLIDO VARCHAR(10) NOT NULL,\000d\000a[*])"; se esperaba "identifier"
+Syntax error in SQL statement "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aMATRICULA VARCHAR(10) NOT NULL,\000d\000aNOMBRE VARCHAR(10) NOT NULL,\000d\000aAPELLIDO VARCHAR(10) NOT NULL,\000d\000a[*])"; expected "identifier"; SQL statement:
+
+
+CREATE TABLE ODONTOLOGOS(
+ID INT AUTO_INCREMENT PRIMARY KEY,
+MATRICULA VARCHAR(10) NOT NULL,
+NOMBRE VARCHAR(10) NOT NULL,
+APELLIDO VARCHAR(10) NOT NULL,
+) [42001-232]
+[2024-08-11 15:03:53] [ ERROR] [OdontologoTest:30] Error de Sintaxis en sentencia SQL "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aMATRICULA VARCHAR(10) NOT NULL,\000d\000aNOMBRE VARCHAR(10) NOT NULL,\000d\000aAPELLIDO VARCHAR(10) NOT NULL,\000d\000a[*])"; se esperaba "identifier"
+Syntax error in SQL statement "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aMATRICULA VARCHAR(10) NOT NULL,\000d\000aNOMBRE VARCHAR(10) NOT NULL,\000d\000aAPELLIDO VARCHAR(10) NOT NULL,\000d\000a[*])"; expected "identifier"; SQL statement:
+
+
+CREATE TABLE ODONTOLOGOS(
+ID INT AUTO_INCREMENT PRIMARY KEY,
+MATRICULA VARCHAR(10) NOT NULL,
+NOMBRE VARCHAR(10) NOT NULL,
+APELLIDO VARCHAR(10) NOT NULL,
+) [42001-232]
+[2024-08-11 15:06:43] [ ERROR] [OdontologoTest:31] Error de Sintaxis en sentencia SQL "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aMATRICULA VARCHAR(10) NOT NULL,\000d\000aNOMBRE VARCHAR(10) NOT NULL,\000d\000aAPELLIDO VARCHAR(10) NOT NULL,\000d\000a[*])"; se esperaba "identifier"
+Syntax error in SQL statement "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aMATRICULA VARCHAR(10) NOT NULL,\000d\000aNOMBRE VARCHAR(10) NOT NULL,\000d\000aAPELLIDO VARCHAR(10) NOT NULL,\000d\000a[*])"; expected "identifier"; SQL statement:
+
+
+CREATE TABLE ODONTOLOGOS(
+ID INT AUTO_INCREMENT PRIMARY KEY,
+MATRICULA VARCHAR(10) NOT NULL,
+NOMBRE VARCHAR(10) NOT NULL,
+APELLIDO VARCHAR(10) NOT NULL,
+) [42001-232]
+[2024-08-11 15:07:02] [ ERROR] [OdontologoTest:30] Error de Sintaxis en sentencia SQL "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aMATRICULA VARCHAR(10) NOT NULL,\000d\000aNOMBRE VARCHAR(10) NOT NULL,\000d\000aAPELLIDO VARCHAR(10) NOT NULL,\000d\000a[*])"; se esperaba "identifier"
+Syntax error in SQL statement "\000d\000a\000d\000aCREATE TABLE ODONTOLOGOS(\000d\000aID INT AUTO_INCREMENT PRIMARY KEY,\000d\000aMATRICULA VARCHAR(10) NOT NULL,\000d\000aNOMBRE VARCHAR(10) NOT NULL,\000d\000aAPELLIDO VARCHAR(10) NOT NULL,\000d\000a[*])"; expected "identifier"; SQL statement:
+
+
+CREATE TABLE ODONTOLOGOS(
+ID INT AUTO_INCREMENT PRIMARY KEY,
+MATRICULA VARCHAR(10) NOT NULL,
+NOMBRE VARCHAR(10) NOT NULL,
+APELLIDO VARCHAR(10) NOT NULL,
+) [42001-232]
+[2024-08-11 15:09:03] [ INFO ] [DaoH2Odontologo:32] Odontologos guardadomodel.Odontologos@4bf48f6
+[2024-08-11 15:09:03] [ INFO ] [DaoH2Odontologo:32] Odontologos guardadomodel.Odontologos@14008db3
+[2024-08-11 15:27:44] [ INFO ] [DaoEnMemoria:17] Veterinario guardado en memoria model.Odontologos@21de60b4
+[2024-08-11 15:27:44] [ INFO ] [DaoEnMemoria:17] Veterinario guardado en memoria model.Odontologos@291ae
+[2024-08-11 15:27:44] [ INFO ] [DaoEnMemoria:17] Veterinario guardado en memoria model.Odontologos@50eac852
+[2024-08-11 15:27:44] [ INFO ] [DaoEnMemoria:23] Veterinarios encontrados en memoria []
+[2024-08-11 15:28:16] [ INFO ] [DaoEnMemoria:17] Veterinario guardado en memoria model.Odontologos@21de60b4
+[2024-08-11 15:28:16] [ INFO ] [DaoEnMemoria:17] Veterinario guardado en memoria model.Odontologos@291ae
+[2024-08-11 15:28:16] [ INFO ] [DaoEnMemoria:17] Veterinario guardado en memoria model.Odontologos@50eac852
+[2024-08-11 15:28:16] [ INFO ] [DaoEnMemoria:23] Veterinarios encontrados en memoria [model.Odontologos@291ae, model.Odontologos@50eac852]
+[2024-08-11 15:29:30] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@636be97c
+[2024-08-11 15:29:30] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@3835c46
+[2024-08-11 15:29:30] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@7714e963
+[2024-08-11 15:29:30] [ INFO ] [DaoEnMemoria:23] Odontologos encontrados en memoria [model.Odontologos@3835c46, model.Odontologos@7714e963]
+[2024-08-12 19:32:41] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@21de60b4
+[2024-08-12 19:32:41] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@291ae
+[2024-08-12 19:32:41] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@50eac852
+[2024-08-12 19:32:41] [ INFO ] [DaoEnMemoria:23] Odontologos encontrados en memoria [model.Odontologos@291ae, model.Odontologos@50eac852]
+[2024-08-12 19:32:46] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@50b472aa
+[2024-08-12 19:32:46] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@393671df
+[2024-08-12 19:32:46] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@6eda5c9
+[2024-08-12 19:32:46] [ INFO ] [DaoEnMemoria:23] Odontologos encontrados en memoria [model.Odontologos@393671df, model.Odontologos@6eda5c9]
+[2024-08-12 19:32:49] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@50b472aa
+[2024-08-12 19:32:49] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@393671df
+[2024-08-12 19:32:49] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@6eda5c9
+[2024-08-12 19:32:49] [ INFO ] [DaoEnMemoria:23] Odontologos encontrados en memoria [model.Odontologos@393671df, model.Odontologos@6eda5c9]
+[2024-08-12 20:18:23] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@50b472aa
+[2024-08-12 20:18:23] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@393671df
+[2024-08-12 20:18:23] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@6eda5c9
+[2024-08-12 20:18:23] [ INFO ] [DaoEnMemoria:23] Odontologos encontrados en memoria [model.Odontologos@393671df, model.Odontologos@6eda5c9]
+[2024-08-12 20:21:10] [ INFO ] [DaoH2Odontologo:34] Odontologos guardadomodel.Odontologos@6736fa8d
+[2024-08-12 20:21:10] [ INFO ] [DaoH2Odontologo:34] Odontologos guardadomodel.Odontologos@27508c5d
+[2024-08-12 20:22:56] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@50b472aa
+[2024-08-12 20:22:56] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@393671df
+[2024-08-12 20:22:56] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@6eda5c9
+[2024-08-12 20:22:56] [ INFO ] [DaoEnMemoria:23] Odontologos encontrados en memoria [model.Odontologos@393671df, model.Odontologos@6eda5c9]
