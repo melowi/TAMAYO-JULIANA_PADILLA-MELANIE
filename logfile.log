@@ -94,3 +94,33 @@ APELLIDO VARCHAR(10) NOT NULL,
 [2024-08-12 20:22:56] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@393671df
 [2024-08-12 20:22:56] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@6eda5c9
 [2024-08-12 20:22:56] [ INFO ] [DaoEnMemoria:23] Odontologos encontrados en memoria [model.Odontologos@393671df, model.Odontologos@6eda5c9]
+[2024-08-12 20:54:37] [ INFO ] [DaoH2Odontologo:34] Odontologos guardadomodel.Odontologos@4ef782af
+[2024-08-12 20:54:37] [ INFO ] [DaoH2Odontologo:34] Odontologos guardadomodel.Odontologos@a307a8c
+[2024-08-12 21:08:48] [ ERROR] [OdontologoTest:31] La base de datos puede que ya esté siendo utilizada: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+[2024-08-12 21:11:09] [ ERROR] [OdontologoTest:30] La base de datos puede que ya esté siendo utilizada: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+[2024-08-12 21:11:54] [ ERROR] [OdontologoTest:30] La base de datos puede que ya esté siendo utilizada: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+[2024-08-12 21:12:15] [ ERROR] [OdontologoTest:30] La base de datos puede que ya esté siendo utilizada: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+[2024-08-12 21:12:32] [ ERROR] [OdontologoTest:30] La base de datos puede que ya esté siendo utilizada: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+[2024-08-12 21:13:08] [ ERROR] [OdontologoTest:30] La base de datos puede que ya esté siendo utilizada: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+[2024-08-12 21:13:08] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@47987356
+[2024-08-12 21:13:08] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@21e360a
+[2024-08-12 21:13:08] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@5ba3f27a
+[2024-08-12 21:13:08] [ INFO ] [DaoEnMemoria:23] Odontologos encontrados en memoria [model.Odontologos@21e360a, model.Odontologos@5ba3f27a]
+[2024-08-12 21:13:41] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@50b472aa
+[2024-08-12 21:13:41] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@393671df
+[2024-08-12 21:13:41] [ INFO ] [DaoEnMemoria:17] Odontologo guardado en memoria model.Odontologos@6eda5c9
+[2024-08-12 21:13:41] [ INFO ] [DaoEnMemoria:23] Odontologos encontrados en memoria [model.Odontologos@393671df, model.Odontologos@6eda5c9]
+[2024-08-12 21:13:50] [ ERROR] [OdontologoTest:30] La base de datos puede que ya esté siendo utilizada: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+[2024-08-12 21:14:23] [ ERROR] [OdontologoTest:30] La base de datos puede que ya esté siendo utilizada: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+[2024-08-12 21:14:49] [ ERROR] [OdontologoTest:30] La base de datos puede que ya esté siendo utilizada: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "D:/Documentos/Proyectos/Practica/Odontologos.database.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+[2024-08-12 21:16:13] [ INFO ] [DaoH2Odontologo:34] Odontologos guardadomodel.Odontologos@479cbee5
+[2024-08-12 21:16:13] [ INFO ] [DaoH2Odontologo:34] Odontologos guardadomodel.Odontologos@2b9ed6da

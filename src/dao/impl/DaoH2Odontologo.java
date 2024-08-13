@@ -66,7 +66,7 @@ public class DaoH2Odontologo implements IDao<Odontologos> {
     public List<Odontologos> findAll() {
         Connection connection = null;
         List<Odontologos> odontologos = new ArrayList<>();
-       Odontologos odontologodb = null;
+       Odontologos odontologodb;
         try{
             connection = H2Connection.getConnection();
             Statement statement = connection.createStatement();
